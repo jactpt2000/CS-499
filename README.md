@@ -4,15 +4,18 @@ This repository contains my capstone projects and comprehensive reflections from
 
 ## Table of Contents
 1. [Professional Self-Assessment](#professional-self-assessment)
-2. [CS-499 Enhancement One - Pet Management System](#cs-499-enhancement-one---pet-management-system)
-3. [CS-499 Enhancement Two - HashTable Project](#cs-499-enhancement-two---hashtable-project)
-4. [CS-499 Enhancement Three - Employees Table](#cs-499-enhancement-three---employees-table)
+2. [Code Review](#code-review)
+3. [CS-499 Enhancement One - Pet Management System](#cs-499-enhancement-one---pet-management-system)
+4. [CS-499 Enhancement Two - HashTable Project](#cs-499-enhancement-two---hashtable-project)
+5. [CS-499 Enhancement Three - Employees Table](#cs-499-enhancement-three---employees-table)
 
 ## Professional Self-Assessment
 
 As I reflect upon my academic journey within the Computer Science program at Southern New Hampshire University, I am proud to present this portfolio as a culmination of my studies, particularly highlighting my capstone course, CS-499. This course, alongside the entire program, has been instrumental in refining my skills and shaping my professional outlook in the field of computer science.
 
 ### Capstone Projects Overview
+
+### Code Review
 
 #### CS-499 Enhancement One - Pet Management System
 
