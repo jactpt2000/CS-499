@@ -25,11 +25,11 @@ Designed and developed during my IT-145 course, this system enables efficient ma
 
 #### CS-499 Enhancement Two - HashTable Project
 
-Initially developed in C++, this project aimed to deepen my understanding of data management using advanced hash table algorithms. It later transitioned to Python to take advantage of robust libraries, improving the efficiency and maintainability of the code. The project emphasized collaborative development through Git, with regular peer reviews enhancing the solution.
+Initially developed for my CS-260 course in C++, this project aimed to deepen my understanding of data management using advanced hash table algorithms. It later transitioned to Python to take advantage of robust libraries, improving the efficiency and maintainability of the code. The project emphasized collaborative development through Git, with regular peer reviews enhancing the solution.
 
 #### CS-499 Enhancement Three - Employees Table
 
-This project involved integrating MySQL and data mining techniques to analyze employee salary data using the K-means clustering algorithm. It included sophisticated database management features such as stored procedures and triggers, which optimized the data handling and analysis processes.
+This project was created for DAD-220 course involves integrating MySQL and data mining techniques to analyze employee salary data using the K-means clustering algorithm. It includes sophisticated database management features such as stored procedures and triggers, which optimizes the data handling and analysis processes.
 
 ### Alignment with Educational Goals and Professional Aspirations
 
