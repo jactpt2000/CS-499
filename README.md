@@ -17,6 +17,8 @@ As I reflect upon my academic journey within the Computer Science program at Sou
 
 ### Code Review
 
+[Click here to watch the video](https://drive.google.com/file/d/1U_cUQV7B7J4AEoQmnDMB1z4U0-JKDwdz/view?usp=drive_link)
+
 #### CS-499 Enhancement One - Pet Management System
 
 Designed and developed during my IT-145 course, this system enables efficient management of pet stays at care facilities. It handles operations from recording pet details to cost calculation, influenced by factors like pet type, stay duration, and special care requirements. The system also integrates discount handling and coupon code application, enhancing user interaction and operational efficiency.
