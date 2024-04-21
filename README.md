@@ -1,49 +1,51 @@
 # SNHU CS-499 Capstone Portfolio
 
-This repository contains my capstone projects and comprehensive reflections from the Computer Science program at Southern New Hampshire University. These projects exemplify my growth and learning in the field, showcasing the skills and knowledge I've gained.
+Welcome to my Capstone Portfolio for the Computer Science program at Southern New Hampshire University. This repository showcases the culmination of my academic journey, featuring key projects that highlight the skills and knowledge I've gained throughout my studies.
 
 ## Table of Contents
-1. [Professional Self-Assessment](#professional-self-assessment)
-2. [Code Review](#code-review)
-3. [CS-499 Enhancement One - Pet Management System](#cs-499-enhancement-one---pet-management-system)
-4. [CS-499 Enhancement Two - HashTable Project](#cs-499-enhancement-two---hashtable-project)
-5. [CS-499 Enhancement Three - Employees Table](#cs-499-enhancement-three---employees-table)
+- [Professional Self-Assessment](#professional-self-assessment)
+- [Code Review](#code-review)
+- [CS-499 Enhancement One - Pet Management System](#cs-499-enhancement-one---pet-management-system)
+- [CS-499 Enhancement Two - HashTable Project](#cs-499-enhancement-two---hashtable-project)
+- [CS-499 Enhancement Three - Employees Table](#cs-499-enhancement-three---employees-table)
+- [Reflections on Challenges and Learnings](#reflections-on-challenges-and-learnings)
+- [Conclusion and Future Aspirations](#conclusion-and-future-aspirations)
+- [Contact Information](#contact-information)
 
 ## Professional Self-Assessment
+Reflecting on my time in the Computer Science program at Southern New Hampshire University, I am particularly proud of the growth I've experienced, which is encapsulated in this portfolio. Through a series of progressively challenging projects, I've honed skills in problem-solving, project management, and technical communication, preparing me for the professional challenges ahead.
 
-As I reflect upon my academic journey within the Computer Science program at Southern New Hampshire University, I am proud to present this portfolio as a culmination of my studies, particularly highlighting my capstone course, CS-499. This course, alongside the entire program, has been instrumental in refining my skills and shaping my professional outlook in the field of computer science.
-
-### Capstone Projects Overview
+## Capstone Projects Overview
 
 ### Code Review
+For an in-depth look at my coding practices and project insights, [click here to watch the video](#).
 
-[Click here to watch the video](https://drive.google.com/file/d/1QYUdf1vqm4pepDf2aJawi9EbpqNCui8o/view?usp=drive_link)
+### CS-499 Enhancement One - Pet Management System
+**Technologies Used:** Java, MySQL  
+**Challenges:** Implementing dynamic pricing based on peak times  
+**Outcome:** A robust system that efficiently manages pet stays, enhancing user experience through automated price adjustments and promotional discounts.
+- **Description:** Initiated in my IT-145 course, this system streamlines operations at pet care facilities from intake to billing, accommodating various pet types and care requirements.
 
-#### CS-499 Enhancement One - Pet Management System
+### CS-499 Enhancement Two - HashTable Project
+**Technologies Used:** C++, Python  
+**Challenges:** Data scalability and security  
+**Outcome:** Transitioned to Python to enhance maintainability and incorporate extensive libraries, focusing on peer-reviewed code improvements.
+- **Description:** Started in my CS-260 course, this project demonstrates advanced data management techniques using hash tables, emphasizing efficiency and security in data handling.
 
-Designed and developed during my IT-145 course, this system enables efficient management of pet stays at care facilities. It handles operations from recording pet details to cost calculation, influenced by factors like pet type, stay duration, and special care requirements. The system also integrates discount handling and coupon code application, enhancing user interaction and operational efficiency.
+### CS-499 Enhancement Three - Employees Table
+**Technologies Used:** MySQL, Python  
+**Challenges:** Managing large data volumes with quick response times  
+**Outcome:** Developed sophisticated database management features, optimizing performance through stored procedures and triggers.
+- **Description:** Created for my DAD-220 course, this project uses data mining techniques to analyze employee data, showcasing my ability to integrate complex SQL queries with Python for data analysis.
 
-#### CS-499 Enhancement Two - HashTable Project
+## Reflections on Challenges and Learnings
+Throughout these projects, I've encountered and overcome numerous challenges, from integrating complex pricing models in the Pet Management System to ensuring robust security in the HashTable project. These experiences taught me the importance of scalable design and proactive security measures, which will be invaluable in my future career.
 
-Initially developed for my CS-260 course in C++, this project aimed to deepen my understanding of data management using advanced hash table algorithms. It later transitioned to Python to take advantage of robust libraries, improving the efficiency and maintainability of the code. The project emphasized collaborative development through Git, with regular peer reviews enhancing the solution.
+## Conclusion and Future Aspirations
+My journey at SNHU has not only refined my technical abilities but also significantly enhanced my project management and problem-solving skills. As I transition into the professional world, I am eager to apply my knowledge in roles that require innovative, efficient, and secure software solutions, particularly in industries focused on software development and data analytics.
 
-#### CS-499 Enhancement Three - Employees Table
+## Contact Information
+For further inquiries or professional connections:
+- **Email:** [myemail@example.com](jorge.argueta@snhu.edu)
 
-This project was created for DAD-220 course involves integrating MySQL and data mining techniques to analyze employee salary data using the K-means clustering algorithm. It includes sophisticated database management features such as stored procedures and triggers, which optimizes the data handling and analysis processes.
 
-### Alignment with Educational Goals and Professional Aspirations
-
-Each project aligns with the SNHU Computer Science program outcomes, demonstrating:
-- **Collaborative Environments:** By leveraging platforms like GitHub for version control and project collaboration, I enhanced my ability to work effectively in team settings, facilitating continuous improvement and integration.
-- **Professional-quality Communications:** Maintaining clear and comprehensive documentation throughout the project lifecycle ensured that all components were understandable and accessible, reinforcing professional communication standards.
-- **Algorithmic Design and Evaluation:** My projects consistently applied complex algorithms and computational logic to solve practical problems efficiently, showcasing my capability to design and evaluate robust computing solutions.
-- **Innovative Techniques in Computing:** From object-oriented programming to the application of advanced data structures like AVL Trees, my work reflected a strong foundation in utilizing innovative and effective computing practices.
-- **Security Mindset:** Across all projects, I emphasized data integrity and security, incorporating practices to mitigate vulnerabilities and ensure the secure handling of information.
-
-### Challenges and Learnings
-
-Throughout my capstone projects, I encountered various challenges, such as implementing peak and off-peak pricing in the Pet Management System, managing data scalability and security in the HashTable project, designing an efficient schema that handled large data volumes while maintaining quick response times was challenging in the employees table. These challenges were invaluable learning opportunities that taught me the importance of scalable design and proactive security measures.
-
-### Conclusion
-
-The culmination of my experiences at SNHU has not only tested my technical abilities but has also significantly enhanced my project management and problem-solving skills. This journey has prepared me for the multifaceted challenges of the professional world, where I am eager to apply my knowledge and skills to contribute to impactful technological solutions. As I transition from a student to a professional in the tech industry, I am equipped to deliver innovative, efficient, and secure software solutions, driving forward the goals of any organization.
