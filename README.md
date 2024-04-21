@@ -46,6 +46,6 @@ My journey at SNHU has not only refined my technical abilities but also signific
 
 ## Contact Information
 For further inquiries or professional connections:
-- **Email:** [myemail@example.com](jorge.argueta@snhu.edu)
+- **Email:** [jorge.argueta@snhu.edu](jorge.argueta@snhu.edu)
 
 
