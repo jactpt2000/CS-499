@@ -18,7 +18,7 @@ Reflecting on my time in the Computer Science program at Southern New Hampshire 
 ## Capstone Projects Overview
 
 ### Code Review
-For an in-depth look at my coding practices and project insights, [click here to watch the video](#).
+For an in-depth look at my coding practices and project insights, [click here to watch the video](https://drive.google.com/file/d/1QYUdf1vqm4pepDf2aJawi9EbpqNCui8o/view?usp=sharing).
 
 ### CS-499 Enhancement One - Pet Management System
 **Technologies Used:** Java, MySQL  
