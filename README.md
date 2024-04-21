@@ -42,7 +42,7 @@ Each project aligns with the SNHU Computer Science program outcomes, demonstrati
 
 ### Challenges and Learnings
 
-Throughout my capstone and other course projects, I encountered various challenges, such as implementing peak and off-peak pricing in the Pet Management System and managing data scalability and security in the HashTable project. These challenges were invaluable learning opportunities that taught me the importance of scalable design and proactive security measures.
+Throughout my capstone projects, I encountered various challenges, such as implementing peak and off-peak pricing in the Pet Management System, managing data scalability and security in the HashTable project, designing an efficient schema that handled large data volumes while maintaining quick response times was challenging in the employees table. These challenges were invaluable learning opportunities that taught me the importance of scalable design and proactive security measures.
 
 ### Conclusion
 
